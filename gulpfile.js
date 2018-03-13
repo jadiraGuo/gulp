@@ -11,6 +11,7 @@
 9、del--------------------------清理生成文件
 ****/
 /*
+*2222222222222222222
 */
 var gulp = require("gulp");
 var webserver = require("gulp-webserver");
