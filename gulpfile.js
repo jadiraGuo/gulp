@@ -10,7 +10,8 @@
 8、gulp-rev-collector------------------html替换引入文件版本
 9、del--------------------------清理生成文件
 ****/
-
+/*
+*/
 var gulp = require("gulp");
 var webserver = require("gulp-webserver");
 var proxy=require('http-proxy-middleware')
