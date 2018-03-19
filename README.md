@@ -1,4 +1,4 @@
-# gulp1
+# gulp2.0
 gulp
 1、gulp-webserver-----------------server服务
 2、http-proxy-middleware-------------------server代理
